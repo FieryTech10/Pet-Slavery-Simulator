@@ -11,9 +11,10 @@ body {
 	height: 100vh;
 	background: black;
 	z-index: 200;
-	color: white;
+	color: red;
 	text-align: center;
 	line-height: 90vh;
+	transition: all 2s;
 }
 
 .splash.display-none {
@@ -28,7 +29,7 @@ body {
 	color: white;
 	text-align: center;
 	line-height: 90vh;
-	transition: all 1s;
+	transition: all 3s;
 }
 
 

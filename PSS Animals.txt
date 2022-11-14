@@ -1,0 +1,20 @@
+Common
+- Moose
+- Cat
+- Dog
+
+Uncommon
+- Rat
+- Wombat
+
+
+Rare
+- Panda
+- American Black Bear
+- Grizzly Bear
+
+Ledgendary
+- Tasmanian Tiger (Thylacine)
+
+Mythical
+- T-rex
